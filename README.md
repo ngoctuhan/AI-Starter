@@ -6,7 +6,7 @@ Trong đây có kiến thức:
 
 1. Processing data:
 + Dữ liệu số: đã hoàn thành
-+ Dữ liệu data: đã hoàn thành
++ Dữ liệu date: đã hoàn thành
 + Dữ liệu phân loại: đã hoàn thành
 + Dữ liệu âm thanh: chưa hoàn thành
 + Dữ liệu text: chưa hoàn thành
