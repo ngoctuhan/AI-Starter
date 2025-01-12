@@ -1,31 +1,46 @@
 # AI-Starter
+A comprehensive guide to AI fundamentals for absolute beginners 🚀
 
-Những kiến thức về AI cho người chưa biết gì ????
+## Overview
+This repository serves as a learning resource for those taking their first steps into Artificial Intelligence. It contains structured tutorials, code examples, and practical implementations of various AI concepts.
 
-Trong đây có kiến thức:
+## Content Structure
 
-1. Processing data:
-+ Dữ liệu số: đã hoàn thành
-+ Dữ liệu date: đã hoàn thành
-+ Dữ liệu phân loại: đã hoàn thành
-+ Dữ liệu âm thanh: chưa hoàn thành
-+ Dữ liệu text: chưa hoàn thành
+### 1. Data Processing
+- ✅ Numerical Data Processing - *Completed*
+- ✅ Date/Time Data Processing - *Completed*
+- ✅ Categorical Data Processing - *Completed*
+- ⏳ Audio Data Processing - *In Progress*
+- ⏳ Text Data Processing - *In Progress*
 
-2. Các thuật toán phân loại hồi quy trong machine learning
+### 2. Machine Learning Classification & Regression Algorithms
+- ✅ Tree-based Algorithms - *Completed*
+- ✅ Boosting Algorithms - *Completed (except CatBoost)*
+- ✅ Deep Learning: CNN, RNN, LSTM - *Completed*
+- ⏳ Bayesian Algorithms - *In Progress*
+- ⏳ Clustering Algorithms - *In Progress*
 
-+ Tree base algorithm: đã hoàn thành
-+ Nhóm thuật toán Boosting: đã hoàn thành (ngoài trừ catboost)
-+ Deeplearning: CNN, RNN, LSTM ( đã hoàn thành)
-+ Nhóm thuật toán liến quan: Bayes (chưa hoàn thành)
-+ Nhóm thuật toán cho bài toán phân cụm (chưa hoàn thành)
+### 3. Project Demonstrations
+*All projects are currently in development:*
+- ⏳ Tabular Data Analysis Projects
+- ⏳ LSTM/RNN Implementation for Time Series Data
+- ⏳ Computer Vision Projects:
+  - Image Classification
+  - Object Detection
+  - Image Segmentation
 
-3. Demo project với từng dạng thuật toán (chưa hoàn thành)
-+ Demo project dữ liệu trên các bảng 
-+ Demo LSTM, RNN cho dữ liệu time series
-+ Demo cho các bài toán xử lí hình ảnh: phân loại, detection, segment
+## Latest Update
+Last updated: April 5, 2020
 
-New_Update: 5/4/2020
+## Contribution
+Your feedback and contributions are warmly welcomed! Feel free to:
+- Submit issues
+- Propose new features
+- Create pull requests
+- Share your learning experiences
 
-Xin đừng gạch đá. (-_-)
+## Note
+This is a learning-in-progress repository. Constructive feedback is appreciated! 🙏
 
-Rất mong nhân được sự đóng góp của các bạn.
+---
+*Learning together, growing together* 🌱
